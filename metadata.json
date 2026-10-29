@@ -1,0 +1,6 @@
+{
+  "name": "Étude - Gestion Notariale Marocaine",
+  "description": "Application de gestion de dossiers et formalités pour étude notariale marocaine conforme aux lois 32-09, 43-05 (LCB-FT) et 09-08.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
